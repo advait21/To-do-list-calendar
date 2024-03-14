@@ -7,3 +7,6 @@ To run this project go to django backend folder and run
 
 Also in other terminal go to react_frontend folder and run
 1. npm start
+
+Output screenshots
+![Uploading image.png…]()
