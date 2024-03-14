@@ -9,4 +9,6 @@ Also in other terminal go to react_frontend folder and run
 1. npm start
 
 Output screenshots
-![Uploading image.png…]()
+![ss1](https://github.com/advait21/To-do-list-calendar/assets/76252106/5fa30bff-7ea7-4df9-95bc-55ad66b3d6ba)
+![image](https://github.com/advait21/To-do-list-calendar/assets/76252106/4aeb2e03-042c-4c89-b95d-3ddeb91c56e2)
+![image](https://github.com/advait21/To-do-list-calendar/assets/76252106/da83b508-21ea-4b05-afeb-9334630ebf54)
